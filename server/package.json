@@ -1,0 +1,9 @@
+{
+  "name": "cybershield-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CyberShield API: аккаунты, коды на почту, форум, реестр",
+  "main": "src/index.js",
+  "scripts": { "start": "node src/index.js" },
+  "engines": { "node": ">=22.5" }
+}
